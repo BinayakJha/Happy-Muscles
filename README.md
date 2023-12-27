@@ -44,3 +44,7 @@ We will be looking deeper into the muscles and providing more accurate stretchin
 We're also looking forward to gathering user feedback and refining the app based on their experiences and needs. Our goal is to continuously improve and innovate, all while keeping people's happiness and health at the core of our mission.
 
 Join us in our mission to make muscles happy, one stretch at a time. Together, we can build a healthier, happier world.
+
+## Try it online:
+1) First run this repl: https://replit.com/@hamrogpt/backend?v=1
+2) Then run this repl: https://replit.com/@hamrogpt/happymuscle?v=1
